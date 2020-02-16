@@ -21,11 +21,8 @@ Two frameworks: __Bulma and Materialize.
 Screenshots to give you an better idea for our app.
 
 
-![FFFinder](styles/images/screenshot2.png)
-![FFFinder](styles/images/screenshot1.png)
-![FFFinder](styles/images/screenshot3.png)
-![FFFinder](styles/images/screenshot4.png)
-![FFFinder](styles/images/screenshot5.png)
-![FFFinder](styles/images/screenshot6.png)
+![FFFinder](Landing.png)
+![FFFinder](DogSearch.png)
+![FFFinder](SearchMap.png)
 
 
