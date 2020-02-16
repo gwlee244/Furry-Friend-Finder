@@ -16,7 +16,7 @@ To summerize:
 
 Four type of API calls: __Petfinder API, The Cat API, The Dog API and the MapQuest API.__ 
 
-Two frameworks: __Materialize.
+Two frameworks: __Materialize.__
 
 Screenshots to give you an better idea for our app.
 
