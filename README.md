@@ -21,8 +21,8 @@ Two frameworks: __Materialize.
 Screenshots to give you an better idea for our app.
 
 
-![FFFinder](Landing.png)
-![FFFinder](DogSearch.png)
-![FFFinder](SearchMap.png)
+![FFFinder](Landing.PNG)
+![FFFinder](DogSearch.PNG)
+![FFFinder](SearchMap.PNG)
 
 
