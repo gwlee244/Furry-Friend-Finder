@@ -20,18 +20,11 @@ An app that allows you to search for adoptable dogs and cats in your area and di
   
   ## Screenshots
 
-* Landing Page on Iphone  
+![FFFinder](Landing.PNG)
 
-![FFFinder](styles/images/homeIphoneSS.jpg)
-* Dog page showing breed info  
+![FFFinder](DogSearch.PNG)
 
-![FFFinder](styles/images/dogSS.jpg)
-* Dog page showing map  
-
-![FFFinder](styles/images/dogSS2.jpg)
-* Cat page showing driving directions  
-
-![FFFinder](styles/images/catSS.jpg)
+![FFFinder](SearchMap.PNG)
 
    ## Built With  
 
