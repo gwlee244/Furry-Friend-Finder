@@ -1,28 +1,51 @@
+# Furry Friend Finder
 
-                                         
-                                         **Furry Friend Finder**                                    
-                                         
-**Furry Friend Finder**. Working with team members to create an API app. Our team use api calls to load cat and dog information for pet lovers who would like to adopt. Our team members are __Shuyun Mu (Sue), Alex Coulter, Gene Lee, and Diantai Johnson.__
+## Table of Contents
 
+* [Description](#description)
+* [Usage](#usage)
+* [Screenshots](#screenshots)
+* [Built With](#built-with)
+* [Contributing](#contributing)
 
-_Here is the link for our webpage. https://mushuyun.github.io/Project1/
+## Description
+An app that allows you to search for adoptable dogs and cats in your area and displays information as well as maps and directions to find these needy animals. 
 
-                               
-Our app name is called __Furry Friend Finder__. Working with team members to create an API app. Our team use __petfinder api__ to load cat and dog information for pet lovers who would like to adopt. There are input fields for user to enter what kind of cat or dog breed, gender and his or her zip code. When submit, our app will show the breed information, the picture and the contact information for each shelter based on that user's zipcode. For breed information we use the api call from __thecatapi and thedogapi__ to show pictures, size, life span ect. for that specific type at the same time with shelter informaiton. Then our app will call from __mapquest api__ to show the user driving direction and map. In all, we use three type of api calls in this app. 
+ * This full-stack application is deployed on Heroku : https://alexcoulter.github.io/Furry-Friend-Finder/
 
-For the styling and structure, we tried both __Bulma and Materialize.__ 
+  
+  ## Usage
+  
+  * To get started, fill out the input fields for animal breed, gender and zip code to narrow your pet search. When you click 'submit', our app will make a call to the __PetFinder API__ to show adoptable animals nearby based on that user's zipcode. We also make an api call to __TheCatapi__ and __TheDogapi__ to show specific pictures and information for whatever breed you chose. If you see an animal you like, click the button that says 'Display Map' or 'Display Directions' and a call will be made to the __Mapquest Api__ to show a map or driving directions to find that animal.
+  
+  ## Screenshots
 
-To summerize: 
+* Landing Page on Iphone  
 
-Four type of API calls: __Petfinder API, The Cat API, The Dog API and the MapQuest API.__ 
+![FFFinder](styles/images/homeIphoneSS.jpg)
+* Dog page showing breed info  
 
-Two frameworks: __Materialize.__
+![FFFinder](styles/images/dogSS.jpg)
+* Dog page showing map  
 
-Screenshots to give you an better idea for our app.
+![FFFinder](styles/images/dogSS2.jpg)
+* Cat page showing driving directions  
 
+![FFFinder](styles/images/catSS.jpg)
 
-![FFFinder](Landing.PNG)
-![FFFinder](DogSearch.PNG)
-![FFFinder](SearchMap.PNG)
+   ## Built With  
 
+* **HTML** 
+* **CSS** 
+* **Javascript** 
+* **Jquery** 
+* **Materialize**
+* **Petfinder API**
+* **TheDog API**
+* **TheCat API**
+* **Mapquest API**
+
+## Contributing
+
+*  Our team members are __Alex Coulter, Shuyun Mu (Sue), Gene Lee, and Diantai Johnson.__
 
