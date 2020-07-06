@@ -11,7 +11,7 @@
 ## Description
 An app that allows you to search for adoptable dogs and cats in your area and displays information as well as maps and directions to find these needy animals. 
 
- * This full-stack application is deployed on Heroku : https://alexcoulter.github.io/Furry-Friend-Finder/
+ * This full-stack application is deployed on Heroku : https://gwlee244.github.io/Furry-Friend-Finder/
 
   
   ## Usage
