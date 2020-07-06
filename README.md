@@ -20,6 +20,7 @@ An app that allows you to search for adoptable dogs and cats in your area and di
   
   ## Screenshots
 
+
 ![FFFinder](Landing.PNG) 
 
 ![FFFinder](DogSearch.PNG)
